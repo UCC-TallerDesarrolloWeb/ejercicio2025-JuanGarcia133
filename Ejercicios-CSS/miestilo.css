@@ -1,0 +1,28 @@
+
+
+      div {
+        border: 1px solid rgb(68, 40, 97);
+        margin: 20px;
+        padding: 10px;
+        background-color: rgba(240, 248, 255, 0);
+        border-radius: 15%;
+        box-shadow: 10px 11px rgb(10, 255, 10);
+      }
+      #img {
+        width: 20%;
+        float: left;
+        border-radius: 50%;
+      }
+      body {
+        text-align: center;
+        font-family: "Roboto", sans-serif;
+        background: -moz-linear-gradient(
+          to right,
+          background-color rgb(174, 19, 19),
+          rgb(46, 46, 212)
+        );
+      }
+      h3 {
+        text-shadow: 10px 5px rgb(59, 22, 94);
+      }
+   
